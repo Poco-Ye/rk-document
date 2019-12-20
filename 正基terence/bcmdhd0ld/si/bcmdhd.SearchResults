@@ -1,0 +1,9 @@
+---- WL_SUPPORT_AUTO_CHANNEL Matches (8 in 3 files) ----
+Wl_android.c (d:\共性问题\正基terence\bcmdhd):#if defined(WL_SUPPORT_AUTO_CHANNEL)
+Wl_android.c (d:\共性问题\正基terence\bcmdhd):#endif /* WL_SUPPORT_AUTO_CHANNEL */
+Wl_android.c (d:\共性问题\正基terence\bcmdhd):#if defined(WL_SUPPORT_AUTO_CHANNEL)
+Wl_android.c (d:\共性问题\正基terence\bcmdhd):#endif /* WL_SUPPORT_AUTO_CHANNEL */
+Wl_cfg80211.c (d:\共性问题\正基terence\bcmdhd):#ifdef WL_SUPPORT_AUTO_CHANNEL
+Wl_cfg80211.c (d:\共性问题\正基terence\bcmdhd):#endif /* WL_SUPPORT_AUTO_CHANNEL */
+Wl_cfg80211.h (d:\共性问题\正基terence\bcmdhd):#ifdef WL_SUPPORT_AUTO_CHANNEL
+Wl_cfg80211.h (d:\共性问题\正基terence\bcmdhd):#endif /* WL_SUPPORT_AUTO_CHANNEL */
